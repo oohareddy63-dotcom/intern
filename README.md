@@ -176,10 +176,12 @@ npx expo start
 
 ## Screenshots & Demo
 
-![Uploading Screenshot 2026-04-27 221445.png…]()
-![Uploading Screenshot 2026-04-27 221636.png…]()
-![Uploading Screenshot 2026-04-27 221647.png…]()
-![Uploading Screenshot 2026-04-27 221702.png…]()
+
+<img width="1873" height="877" alt="Screenshot 2026-04-27 221445" src="https://github.com/user-attachments/assets/97f4f504-e691-4d5c-9482-6c61cd8167df" />
+<img width="1891" height="898" alt="Screenshot 2026-04-27 221636" src="https://github.com/user-attachments/assets/85dce182-bf9b-4dbf-944d-f36e0a4e1417" />
+<img width="1866" height="908" alt="Screenshot 2026-04-27 221647" src="https://github.com/user-attachments/assets/9dfafc40-87f6-4ea6-874a-7ea55e538ce8" />
+<img width="1896" height="907" alt="Screenshot 2026-04-27 221702" src="https://github.com/user-attachments/assets/0eedf032-dac4-435c-bf54-253adf3ba47a" />
+
 <img width="1889" height="922" alt="Screenshot 2026-04-27 221721" src="https://github.com/user-attachments/assets/7004f1e6-d90b-4db3-88f2-0db827868395" />
 <img width="1917" height="930" alt="Screenshot 2026-04-27 221735" src="https://github.com/user-attachments/assets/844b3986-1ec0-4666-a3ed-e997525d3af2" />
 <img width="1917" height="893" alt="Screenshot 2026-04-27 221802" src="https://github.com/user-attachments/assets/65f9332f-81be-483b-8b79-66c456a9cd7c" />
