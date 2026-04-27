@@ -1,4 +1,4 @@
-# Expense Tracker App
+<img width="1919" height="898" alt="Screenshot 2026-04-27 221932" src="https://github.com/user-attachments/assets/9b134e7f-dc13-48fc-81fc-9239a186fe9c" /># Expense Tracker App
 
 A full-stack mobile expense tracking app built with React Native (Expo), Node.js, Express, and MongoDB.
 
@@ -176,9 +176,21 @@ npx expo start
 
 ## Screenshots & Demo
 
-(Add screenshots here after running the app)
+![Uploading Screenshot 2026-04-27 221445.png…]()
+![Uploading Screenshot 2026-04-27 221636.png…]()
+![Uploading Screenshot 2026-04-27 221647.png…]()
+![Uploading Screenshot 2026-04-27 221702.png…]()
+<img width="1889" height="922" alt="Screenshot 2026-04-27 221721" src="https://github.com/user-attachments/assets/7004f1e6-d90b-4db3-88f2-0db827868395" />
+<img width="1917" height="930" alt="Screenshot 2026-04-27 221735" src="https://github.com/user-attachments/assets/844b3986-1ec0-4666-a3ed-e997525d3af2" />
+<img width="1917" height="893" alt="Screenshot 2026-04-27 221802" src="https://github.com/user-attachments/assets/65f9332f-81be-483b-8b79-66c456a9cd7c" />
+<img width="1822" height="980" alt="Screenshot 2026-04-27 221919" src="https://github.com/user-attachments/assets/822f6ed0-b06a-4e75-acdc-f3a6b987bc36" />
+<img width="1919" height="898" alt="Screenshot 2026-04-27 221932" src="https://github.com/user-attachments/assets/b6a12e96-dd84-4940-9dbc-c638f5cda14f" />
+<img width="1919" height="992" alt="Screenshot 2026-04-27 221950" src="https://github.com/user-attachments/assets/243e98f4-4daf-4e87-8323-ef5b557c0776" />
+<img width="1919" height="976" alt="Screenshot 2026-04-27 222002" src="https://github.com/user-attachments/assets/3ad2b9e4-83d8-4912-a29a-83e5a2255fb9" />
 
----
+
+
+
 
 ## Known Limitations & Future Enhancements
 
