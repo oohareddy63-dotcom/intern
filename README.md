@@ -217,6 +217,4 @@ MIT
 
 ## Author
 
-Built for Full Stack Development Internship Assignment
-
-**Submission Date:** April 28, 2026
+Made with love
