@@ -8,7 +8,9 @@ export const useNetworkStatus = () => {
       setIsConnected(state.isConnected);
       setIsInternetReachable(state.isInternetReachable);
     });
+    
     return unsubscribe;
   }, []);
+  
   return { isConnected, isInternetReachable };
 };
