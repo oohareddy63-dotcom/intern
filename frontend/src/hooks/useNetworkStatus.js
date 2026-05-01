@@ -10,7 +10,7 @@ export const useNetworkStatus = () => {
     });
     
     return unsubscribe;
-  }, []);
+  }, []) ;
   
   return { isConnected, isInternetReachable };
 };
